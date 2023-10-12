@@ -1,0 +1,11 @@
+datasets
+transformers
+chainlit
+langchain
+PyPDF2
+sentence_transformers
+chromadb
+google-cloud-aiplatform
+pytube
+git+https://github.com/openai/whisper.git
+pytube
